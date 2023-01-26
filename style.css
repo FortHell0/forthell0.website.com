@@ -1,0 +1,14 @@
+.red {color: red; }
+.green {color: green; }
+.blue {color: blue; }
+.gray {color: gray; }
+
+button:hover {
+    background: gray;
+}
+
+#container {
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+}
